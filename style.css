@@ -1,0 +1,62 @@
+body{
+
+    background-color: rgb(192, 217, 238);
+
+}
+
+h1{
+
+    text-align: right;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+span {
+
+    color: red;
+    font-family: cursive;
+   
+}
+
+h2{
+
+    font-family: monospace;
+    font-size: 30px;
+}
+
+p{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+strong{
+
+    color: chocolate;
+
+
+}
+
+time{
+
+    color: chocolate;
+
+}
+
+em{
+
+    background-color: white;
+    color: green;
+
+}
+
+p.pie{
+
+    text-align: center;
+    font-size: 10px;
+}
+
+em.sin{
+
+ color: black;
+
+}
